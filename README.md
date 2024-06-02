@@ -21,6 +21,7 @@
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=debian,bash,vscode,neovim,git,github,docker)](https://skillicons.dev)
 
 ### Some statistics
 <div align="center">
