@@ -3,8 +3,8 @@
 ### :neckbeard: About me :
 
 - 🎓 Meteorology Professional ⛅ ☔
-- 📈 I am Interested in data handling, visualization and analysis 
-- 📊 I am fascinated by the power of data to inform decision-making.
+- 📈 Interested in data handling, visualization and analysis 
+- 📊 Fascinated by the power of data to inform decision-making.
 - 👨🏽‍💻 I intend to study data science
 
 ### 🚀 Skills:
