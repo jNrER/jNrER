@@ -8,19 +8,9 @@
 - 👨🏽‍💻 I intend to study data science
 
 ### Skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,r,python,mysql" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,r,linux,mysql)](https://skillicons.dev)
 
 ### Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,bash,vscode,neovim,git,github,docker" />
-  </a>
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=debian,bash,vscode,neovim,git,github,docker)](https://skillicons.dev)
 
 ### Some statistics
