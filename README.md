@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey! this is my Profile! 💻 ☁️ ☀️
 
-<!--
-**jNrER/jNrER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me :
 
-Here are some ideas to get you started:
+- 🎓 Meteorology Professional
+- 📈 I am Interested in data handling, visualization and analysis 
+- 📊 I am fascinated by the power of data to inform decision-making.
+- 👨🏽‍💻 I intend to study data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,r,python,mysql" />
+  </a>
+</p>
+
+###Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,bash,vscode,neovim,git,github,docker" />
+  </a>
+</p>
+
+
+### Some statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jNrER&theme=tokyonight&layout=compact" width="45%" />
+</div>
